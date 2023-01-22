@@ -1,0 +1,6 @@
+/home/usr9/r70209a/.bashrc: 行 10: sc-setenv.sh: そのようなファイルやディレクトリはありません
+mm_omp.c's result is as follows:
+-------------------------------------------------------------------------
+
+threshhold = 40		Matrix size = 128		naive = 0.0017		Block time= 1.0275
+THE ANSWER IS RIGHT!

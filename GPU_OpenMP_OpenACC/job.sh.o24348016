@@ -1,0 +1,6 @@
+/home/usr9/r70209a/.bashrc: 行 10: sc-setenv.sh: そのようなファイルやディレクトリはありません
+mm_omp.c's result is as follows:
+-------------------------------------------------------------------------
+
+threshhold = 4		Matrix size = 8		naive_omp_gpu = 1.5807		Block time= 0.0013
+THE ANSWER IS RIGHT!

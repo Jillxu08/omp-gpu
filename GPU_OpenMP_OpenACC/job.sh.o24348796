@@ -1,0 +1,9 @@
+/home/usr9/r70209a/.bashrc: 行 10: sc-setenv.sh: そのようなファイルやディレクトリはありません
+
+libgomp: nvptx_alloc error: out of memory
+
+libgomp: device memory allocation fail
+mm_omp.c's result is as follows:
+-------------------------------------------------------------------------
+
+threshhold = 400		Matrix size = 32768		

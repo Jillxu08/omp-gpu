@@ -1,0 +1,5 @@
+/home/usr9/r70209a/.bashrc: 行 10: sc-setenv.sh: そのようなファイルやディレクトリはありません
+mm_omp.c's result is as follows:
+-------------------------------------------------------------------------
+
+threshhold = 4		Matrix size = 4		naive = 0.0000		/home/usr9/r70209a/GPU_OpenMP_OpenACC/.d0024704234: line 10: 241885 Segmentation fault      ./mm_omp

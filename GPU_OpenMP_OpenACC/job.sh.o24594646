@@ -1,0 +1,10 @@
+/home/usr9/r70209a/.bashrc: 行 10: sc-setenv.sh: そのようなファイルやディレクトリはありません
+mm_omp.c's result is as follows:
+-------------------------------------------------------------------------
+
+threshhold = 40		Matrix size = 2048		
+libgomp: cuCtxSynchronize error: an illegal memory access was encountered
+
+libgomp: cuMemFree_v2 error: an illegal memory access was encountered
+
+libgomp: device finalization failed

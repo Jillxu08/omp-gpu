@@ -1,0 +1,7 @@
+/home/usr9/r70209a/.bashrc: 行 10: sc-setenv.sh: そのようなファイルやディレクトリはありません
+
+libgomp: Trying to map into device [0x6829a0..0x6831a0) object when [0x6829a0..0x682ba0) is already mapped
+mm_omp.c's result is as follows:
+-------------------------------------------------------------------------
+
+threshhold = 8		Matrix size = 16		naive = 0.0000		
